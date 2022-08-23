@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>
+        Site da Halbach
+    </title>
+   
+    <style>
+        h1 {
+            text-align: center;
+            color: red;
+            background: darkblue;
+        }
+        p {
+            text-align: center;
+            color: red;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+  <img src="https://i.pinimg.com/originals/93/ea/2e/93ea2e25e24900d3308c11f287dff0c6.jpg">
+    <h1>Site sobre o Homem-Aranha </h1>
+
+<p><b>Coisinhas do miraha hehe</b></p>
+<p><i>Se não gosta dele, não leia a linha de baixo...</i></p>
+<p><u>Hmm tu gosta né</u></p>
+
+<ul>
+                <li class="itens">Peter Parker, homem-aranha...</li>
+                <li class="itens">Particularmente gosto muito dele!</li>
+                <li class="itens">Fora de cena, Tom Holland é perfeito.</li>
+                <li class="itens">Muito fofoooooo<3</li>
+            </ul>
+</body>
+</html>
