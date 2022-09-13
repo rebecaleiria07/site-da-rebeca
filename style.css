@@ -8,19 +8,41 @@
     </title>
    
     <style>
-        h1 {
-            text-align: center;
-            color: red;
-            background: darkblue;
+    h1{
+        text-align: center;
+        color: red;
+        background:darkblue;
         }
-        p {
-            text-align: center;
-            color: red;
+        
+        p{
+        text-align:center;
+        color:red;
         }
-        img {
-            display: block;
-            margin: 0 auto;
+        
+        img{
+        display:block;
+        margin:0 auto;
         }
+
+        h2{
+            font-family: Courier;
+            text-decoration:underline;
+            text-align:center;
+            background:yellow;
+            color:green;
+            
+            }
+            
+            ol li
+            {
+              color:antiquewhite;
+              font-weight:bold;
+              text-align:center;
+              font-size:25px;
+              background:navy;
+              padding:5px;
+        
+        
     </style>
 </head>
 
@@ -28,15 +50,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Pal%C3%A1cio_do_Planalto_GGFD8938.jpg">
     <h1>site da bereca </h1>
 
-<p><b>oii</b></p>
-<p><i>tudo bem</i></p>
-<p><u>bom diaa</u></p>
+<p><b>bolsonaro</b></p>
+<p><i>mito</i></p>
+<p><u>#202222</u></p>
 
 <ul>
-                <li class="itens">bom</li>
-                <li class="itens">diaa</li>
-                <li class="itens">boa noitee</li>
-                <li class="itens">oiii<3</li>
+                <li class="itens">bolsonaro</li>
+                <li class="itens">mito</li>
+                <li class="itens">22</li>
             </ul>
 </body>
 </html>
